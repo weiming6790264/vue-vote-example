@@ -1,0 +1,23 @@
+{
+  "name": "vue-vote-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync start --server --no-notify --files='index.html, *.css, *.js'" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiming6790264/vue-vote-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiming6790264/vue-vote-example/issues"
+  },
+  "homepage": "https://github.com/weiming6790264/vue-vote-example#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
